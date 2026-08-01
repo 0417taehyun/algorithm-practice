@@ -20,5 +20,5 @@ class Solution:
 
 ```
 
-- Time complexity is 2N.
-- Space complexity is 2N.
+- Time complexity is O(2N).
+- Space complexity is O(2N).

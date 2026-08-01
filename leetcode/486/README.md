@@ -27,8 +27,8 @@ class Solution:
 
 ```
 
-- Time complexity is 2^N.
-- Space complexity is N.
+- Time complexity is O(2^N).
+- Space complexity is O(N).
 
 ### 2. Dynamic Programming
 
@@ -60,5 +60,5 @@ class Solution:
 
 ```
 
-- Time complexity is N^2.
-- Space complexity is N^2.
+- Time complexity is O(N^2).
+- Space complexity is O(N^2).
