@@ -1,5 +1,6 @@
 # LeetCode Practice
 
-| Problem                                    | Difficulty | Topic                           | Last Solved |
-| ------------------------------------------ | ---------- | ------------------------------- | ----------- |
-| [486. Predict the Winner](./486/README.md) | Medium     | Recurssion, Dynamic Programming | 2026-08-01  |
+| Problem                                          | Difficulty | Topic                           | Last Solved |
+| ------------------------------------------------ | ---------- | ------------------------------- | ----------- |
+| [486. Predict the Winner](./486/README.md)       | Medium     | Recurssion, Dynamic Programming | 2026-08-01  |
+| [1929. Concatenation of Array](./1929/README.md) | Easy       | Array                           | 2026-08-01  |
