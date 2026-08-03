@@ -10,3 +10,4 @@
 | [1365. How Many Numbers Are Smaller Than the Current Number](./1365/README.md) | Easy       | Array                           | 2026-08-02  |
 | [448. Find All Numbers Disappeared in an Array](./448/README.md)               | Easy       | Array                           | 2026-08-02  |
 | [877. Stone Game](./877/README.md)                                             | Medium     | Recurssion, Dynamic Programming | 2026-08-02  |
+| [1406. Stone Game III](./1406/README.md)                                       | Medium     | Recurssion, Dynamic Programming | 2026-08-03  |
