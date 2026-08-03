@@ -6,7 +6,7 @@
 
 ## Solution
 
-### 1. Top-Down Dynamic Programming with Memoization
+### 1. Top-Down Dynamic Programming (Memoization)
 
 ```Python
 class Solution:
