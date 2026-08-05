@@ -50,5 +50,7 @@ class Solution:
 
 ```
 
-- Time complexity is O().
-- Space complexity is O().
+> Loop for N times to create a `info` data structure and loop for M times -the number of edges- to search.
+
+- Time complexity is O(N+M).
+- Space complexity is O(N+M).
