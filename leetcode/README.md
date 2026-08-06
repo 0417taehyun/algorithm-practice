@@ -15,3 +15,4 @@
 | [3310. Remove Methods From Project](./3310/README.md)                          | Medium     | Depth-First Search, Breadth-First Search, Graph Theory | 2026-08-05  |
 | [3345. Smallest Divisible Digit Product I](./3345/README.md)                   | Easy       | Math                                                   | 2026-08-06  |
 | [27. Remove Element](./0027/README.md)                                         | Easy       | Array, Two Pointers                                    | 2026-08-06  |
+| [1299. Replace Elements with Greatest Element on Right Side](./1299/README.md) | Easy       | Array                                                  | 2026-08-06  |
