@@ -6,7 +6,7 @@
 
 ## Solution
 
-### 1.
+### 1. For Loop
 
 ```Python
 class Solution:
