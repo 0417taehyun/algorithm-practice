@@ -18,3 +18,4 @@
 | [1299. Replace Elements with Greatest Element on Right Side](./1299/README.md) | Easy       | Array                                                  | 2026-08-06  |
 | [3348. Smallest Divisible Digit Product II](./3348/README.md)                  | Hard       |                                                        | 2026-08-07  |
 | [3302. Find the Lexicographically Smallest Valid Sequence](./3302/README.md)   | Medium     |                                                        | 2026-08-08  |
+| [682. Baseball Game](./682/README.md)                                          | Easy       | Array, Stack                                           | 2026-08-08  |
