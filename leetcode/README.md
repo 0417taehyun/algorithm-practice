@@ -20,3 +20,4 @@
 | [3302. Find the Lexicographically Smallest Valid Sequence](./3302/README.md)   | Medium     |                                                        | 2026-08-08  |
 | [682. Baseball Game](./0682/README.md)                                         | Easy       | Array, Stack                                           | 2026-08-08  |
 | [20. Valid Parentheses](./0020/README.md)                                      | Easy       | Array, Stack                                           | 2026-08-08  |
+| [155. Min Stack](./0155/README.md)                                             | Medium     | Array, Stack                                           | 2026-08-09  |
