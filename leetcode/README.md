@@ -21,3 +21,4 @@
 | [682. Baseball Game](./0682/README.md)                                         | Easy       | Array, Stack                                           | 2026-08-08  |
 | [20. Valid Parentheses](./0020/README.md)                                      | Easy       | Array, Stack                                           | 2026-08-08  |
 | [155. Min Stack](./0155/README.md)                                             | Medium     | Array, Stack                                           | 2026-08-09  |
+| [1140. Stone Game II](./1140/README.md)                                        | Medium     | Array, Dynamic Programming                             | 2026-08-09  |
