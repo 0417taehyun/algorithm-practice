@@ -23,3 +23,4 @@
 | [155. Min Stack](./0155/README.md)                                             | Medium     | Array, Stack                                           | 2026-08-09  |
 | [1140. Stone Game II](./1140/README.md)                                        | Medium     | Array, Dynamic Programming                             | 2026-08-09  |
 | [1441. Build an Array With Stack Operations](./1441/README.md)                 | Medium     | Array, Stack                                           | 2026-08-09  |
+| [150. Evaluate Reverse Polish Notation](./0150/README.md)                      | Medium     | Array, Stack                                           | 2026-08-09  |
