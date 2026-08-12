@@ -27,3 +27,4 @@
 | [636. Exclusive Time of Functions](./0636/README.md)                                  | Medium     | Array, Stack                                           | 2026-08-09  |
 | [1510. Stone Game IV](./1510/README.md)                                               | Hard       | Dynamic Programming                                    | 2026-08-10  |
 | [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](./2996/README.md) | Easy       | Array, Hash Table                                      | 2026-08-11  |
+| [2958. Length of Longest Subarray With at Most K Frequency](./2958/README.md)         | Medium     | Array, Sliding Window                                  | 2026-08-12  |
