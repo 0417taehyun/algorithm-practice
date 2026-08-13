@@ -29,3 +29,4 @@
 | [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](./2996/README.md) | Easy       | Array, Hash Table                                      | 2026-08-11  |
 | [2958. Length of Longest Subarray With at Most K Frequency](./2958/README.md)         | Medium     | Array, Sliding Window                                  | 2026-08-12  |
 | [1475. Final Prices With a Special Discount in a Shop](./1475/README.md)              | Easy       | Array, Stack, Monotonic Stack                          | 2026-08-12  |
+| [2213. Longest Substring of One Repeating Character](./2213/README.md)                | Hard       | Array, Segment Tree                                    | 2026-08-13  |
