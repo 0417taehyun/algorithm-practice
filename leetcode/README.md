@@ -36,3 +36,4 @@
 | [3702. Longest Subsequence With Non-Zero Bitwise XOR](./3702/README.md)               | Medium     | Array, Bit Manipulation                                | 2026-08-15  |
 | [937. Reorder Data in Log Files](./0937/README.md)                                    | Medium     | Array, String, Sorting                                 | 2026-08-15  |
 | [819. Most Common Word](./0819/README.md)                                             | Easy       | Array, String, Hash Table                              | 2026-08-15  |
+| [49. Group Anagrams](./0049/README.md)                                                | Medium     | Array, String, Hash Table, Sorting                     | 2026-08-15  |
