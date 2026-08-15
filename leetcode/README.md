@@ -33,4 +33,4 @@
 | [3090. Maximum Length Substring With Two Occurrences](./3090/README.md)               | Easy       | Array, Sliding Window                                  | 2026-08-14  |
 | [125. Valid Palindrome](./0125/README.md)                                             | Easy       | String, Two Pointers                                   | 2026-08-14  |
 | [344. Reverse String](./0344/README.md)                                               | Easy       | String, Two Pointers                                   | 2026-08-14  |
-| [3702. Longest Subsequence With Non-Zero Bitwise XOR](./3702/README.md)               | Medium     | asd                                                    | 2026-08-15  |
+| [3702. Longest Subsequence With Non-Zero Bitwise XOR](./3702/README.md)               | Medium     | Array, Bit Manipulation                                | 2026-08-15  |
