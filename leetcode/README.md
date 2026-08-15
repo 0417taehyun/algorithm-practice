@@ -37,3 +37,4 @@
 | [937. Reorder Data in Log Files](./0937/README.md)                                    | Medium     | Array, String, Sorting                                 | 2026-08-15  |
 | [819. Most Common Word](./0819/README.md)                                             | Easy       | Array, String, Hash Table                              | 2026-08-15  |
 | [49. Group Anagrams](./0049/README.md)                                                | Medium     | Array, String, Hash Table, Sorting                     | 2026-08-15  |
+| [5. Longest Palindromic Substring](./0005/README.md)                                  | Medium     | String, Two Pointers                                   | 2026-08-15  |
