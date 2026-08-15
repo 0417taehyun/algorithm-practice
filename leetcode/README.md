@@ -34,3 +34,4 @@
 | [125. Valid Palindrome](./0125/README.md)                                             | Easy       | String, Two Pointers                                   | 2026-08-14  |
 | [344. Reverse String](./0344/README.md)                                               | Easy       | String, Two Pointers                                   | 2026-08-14  |
 | [3702. Longest Subsequence With Non-Zero Bitwise XOR](./3702/README.md)               | Medium     | Array, Bit Manipulation                                | 2026-08-15  |
+| [937. Reorder Data in Log Files](./0937/README.md)                                    | Medium     | Array, String, Sorting                                 | 2026-08-15  |
