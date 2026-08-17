@@ -40,3 +40,4 @@
 | [5. Longest Palindromic Substring](./0005/README.md)                                  | Medium     | String, Two Pointers                                   | 2026-08-15  |
 | [2029. Stone Game IX](./2029/README.md)                                               | Medium     | Array, Math                                            | 2026-08-16  |
 | [981. Time Based Key-Value Store](./0981/README.md)                                   | Medium     | Hash Table, Binary Search                              | 2026-08-16  |
+| [1563. Stone Game V](./1563/README.md)                                                | Medium     | Array, Dynamic Programming                             | 2026-08-17  |
