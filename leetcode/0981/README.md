@@ -46,7 +46,7 @@ class TimeMap:
 - Time complexity is O(N \* T).
 - Space complexity is O(T).
 
-### 1. Using Hash Map with Binary Search
+### 2. Using Hash Map with Binary Search
 
 ```Python
 class TimeMap:
