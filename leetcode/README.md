@@ -41,3 +41,4 @@
 | [2029. Stone Game IX](./2029/README.md)                                               | Medium     | Array, Math                                            | 2026-08-16  |
 | [981. Time Based Key-Value Store](./0981/README.md)                                   | Medium     | Hash Table, Binary Search                              | 2026-08-16  |
 | [1563. Stone Game V](./1563/README.md)                                                | Medium     | Array, Dynamic Programming                             | 2026-08-17  |
+| [3471. Find the Largest Almost Missing Integer](./3471/README.md)                     | Easy       | Array, Hash Table                                      | 2026-08-18  |
