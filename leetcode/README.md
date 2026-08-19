@@ -42,4 +42,4 @@
 | [981. Time Based Key-Value Store](./0981/README.md)                                   | Medium     | Hash Table, Binary Search                              | 2026-08-16  |
 | [1563. Stone Game V](./1563/README.md)                                                | Medium     | Array, Dynamic Programming                             | 2026-08-17  |
 | [3471. Find the Largest Almost Missing Integer](./3471/README.md)                     | Easy       | Array, Hash Table                                      | 2026-08-18  |
-| [1386. Cinema Seat Allocation](./1386/README.md)                                      | Medium     | Array, Hash Table                                      | 2026-08-19  |
+| [1386. Cinema Seat Allocation](./1386/README.md)                                      | Medium     | Array, Hash Table, Greedy                              | 2026-08-19  |
