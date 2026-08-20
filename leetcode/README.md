@@ -44,3 +44,4 @@
 | [3471. Find the Largest Almost Missing Integer](./3471/README.md)                     | Easy       | Array, Hash Table                                      | 2026-08-18  |
 | [1386. Cinema Seat Allocation](./1386/README.md)                                      | Medium     | Array, Hash Table, Greedy                              | 2026-08-19  |
 | [3069. Distribute Elements Into Two Arrays I](./3069/README.md)                       | Easy       | Array                                                  | 2026-08-20  |
+| [739. Daily Temperatures](./0739/README.md)                                           | Medium     | Array, Stack, Monotonic Stack                          | 2026-08-20  |
