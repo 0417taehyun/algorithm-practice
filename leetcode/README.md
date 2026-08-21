@@ -47,3 +47,4 @@
 | [739. Daily Temperatures](./0739/README.md)                                           | Medium     | Array, Stack, Monotonic Stack                          | 2026-08-20  |
 | [84. Largest Rectangle in Histogram](./0084/README.md)                                | Hard       | Array, Stack, Monotonic Stack                          | 2026-08-21  |
 | [3116. Kth Smallest Amount With Single Denomination Combination](./3116/README.md)    | Hard       |                                                        | 2026-08-21  |
+| [66. Plus One](./0066/README.md)                                                      | Easy       | Arrat                                                  | 2026-08-21  |
