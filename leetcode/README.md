@@ -45,3 +45,4 @@
 | [1386. Cinema Seat Allocation](./1386/README.md)                                      | Medium     | Array, Hash Table, Greedy                              | 2026-08-19  |
 | [3069. Distribute Elements Into Two Arrays I](./3069/README.md)                       | Easy       | Array                                                  | 2026-08-20  |
 | [739. Daily Temperatures](./0739/README.md)                                           | Medium     | Array, Stack, Monotonic Stack                          | 2026-08-20  |
+| [84. Largest Rectangle in Histogram](./0084/README.md)                                | Hard       | Array, Stack, Monotonic Stack                          | 2026-08-21  |
