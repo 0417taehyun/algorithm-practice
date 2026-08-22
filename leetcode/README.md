@@ -49,3 +49,4 @@
 | [3116. Kth Smallest Amount With Single Denomination Combination](./3116/README.md)    | Hard       |                                                        | 2026-08-21  |
 | [66. Plus One](./0066/README.md)                                                      | Easy       | Array                                                  | 2026-08-21  |
 | [941. Valid Mountain Array](./0941/README.md)                                         | Easy       | Array                                                  | 2026-08-21  |
+| [3622. Check Divisibility by Digit Sum and Product](./3622/README.md)                 | Easy       | Math                                                   | 2026-08-22  |
