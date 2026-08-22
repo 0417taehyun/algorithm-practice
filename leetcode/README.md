@@ -51,3 +51,4 @@
 | [941. Valid Mountain Array](./0941/README.md)                                         | Easy       | Array                                                  | 2026-08-21  |
 | [3622. Check Divisibility by Digit Sum and Product](./3622/README.md)                 | Easy       | Math                                                   | 2026-08-22  |
 | [1. Two Sum](./0001/README.md)                                                        | Easy       | Array, Hash Table                                      | 2026-08-22  |
+| [561. Array Partition](./0561/README.md)                                              | Easy       | Array, Hash Table                                      | 2026-08-22  |
