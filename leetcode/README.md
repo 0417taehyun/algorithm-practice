@@ -52,3 +52,4 @@
 | [3622. Check Divisibility by Digit Sum and Product](./3622/README.md)                 | Easy       | Math                                                   | 2026-08-22  |
 | [1. Two Sum](./0001/README.md)                                                        | Easy       | Array, Hash Table                                      | 2026-08-22  |
 | [561. Array Partition](./0561/README.md)                                              | Easy       | Array, Hash Table                                      | 2026-08-22  |
+| [1927. Sum Game](./1927/README.md)                                                    | Medium     | Math, Greedy                                           | 2026-08-23  |
