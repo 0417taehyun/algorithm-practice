@@ -53,3 +53,4 @@
 | [1. Two Sum](./0001/README.md)                                                        | Easy       | Array, Hash Table                                      | 2026-08-22  |
 | [561. Array Partition](./0561/README.md)                                              | Easy       | Array, Hash Table                                      | 2026-08-22  |
 | [1927. Sum Game](./1927/README.md)                                                    | Medium     | Math, Greedy                                           | 2026-08-23  |
+| [1063. Number of Valid Subarrays](./1063/README.md)                                   | Hard       | Array, Stack, Monotonic Stack                          | 2026-08-23  |
