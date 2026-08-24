@@ -56,3 +56,4 @@
 | [1063. Number of Valid Subarrays](./1063/README.md)                                   | Hard       | Array, Stack, Monotonic Stack                          | 2026-08-23  |
 | [1762. Buildings With an Ocean View](./1762/README.md)                                | Medium     | Array, Stack, Monotonic Stack                          | 2026-08-23  |
 | [2345. Finding the Number of Visible Mountains](./2345/README.md)                     | Medium     | Array, Stack, Sorting, Monotonic Stack                 | 2026-08-24  |
+| [1872. Stone Game VIII](./1872/README.md)                                             | Hard       | Array, Math, Dynamic Programming, Prefix Sum           | 2026-08-24  |
