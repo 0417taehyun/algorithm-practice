@@ -37,10 +37,10 @@ class Solution:
 
 ```
 
-### 2. Recursion
-
 - Time complexity is O(N).
 - Space complexity is O(1).
+
+### 2. Recursion
 
 ```Python
 # Definition for singly-linked list.
