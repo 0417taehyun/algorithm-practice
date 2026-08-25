@@ -60,3 +60,4 @@
 | [316. Remove Duplicate Letters](./0316/README.md)                                     | Medium     | String, Stack, Greedy, Monotonic Stack                 | 2026-08-24  |
 | [1081. Smallest Subsequence of Distinct Characters](./1081/README.md)                 | Medium     | String, Stack, Greedy, Monotonic Stack                 | 2026-08-24  |
 | [3718. Smallest Missing Multiple of K](./3718/README.md)                              | Easy       | Array, Hash Table                                      | 2026-08-25  |
+| [707. Design Linked List](./0707/README.md)                                           | Medium     | Linked List                                            | 2026-08-25  |
