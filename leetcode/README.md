@@ -62,3 +62,4 @@
 | [3718. Smallest Missing Multiple of K](./3718/README.md)                              | Easy       | Array, Hash Table                                      | 2026-08-25  |
 | [707. Design Linked List](./0707/README.md)                                           | Medium     | Linked List                                            | 2026-08-25  |
 | [206. Reverse Linked List](./0206/README.md)                                          | Easy       | Linked List, Recursion                                 | 2026-08-25  |
+| [21. Merge Two Sorted Lists](./0021/README.md)                                        | Easy       | Linked List, Recursion                                 | 2026-08-25  |
