@@ -64,3 +64,4 @@
 | [206. Reverse Linked List](./0206/README.md)                                          | Easy       | Linked List, Recursion                                 | 2026-08-25  |
 | [21. Merge Two Sorted Lists](./0021/README.md)                                        | Easy       | Linked List, Recursion                                 | 2026-08-25  |
 | [2904. Shortest and Lexicographically Smallest Beautiful String](./2904/README.md)    | Medium     | String, Sliding Window                                 | 2026-08-26  |
+| [3720. Lexicographically Smallest Permutation Greater Than Target](./3720/README.md)  | Medium     | Hash Table, String, Greedy, Counting, Enumeration      | 2026-08-27  |
