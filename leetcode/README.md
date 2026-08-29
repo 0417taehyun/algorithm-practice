@@ -67,3 +67,4 @@
 | [3720. Lexicographically Smallest Permutation Greater Than Target](./3720/README.md)             | Medium     | Hash Table, String, Greedy, Counting, Enumeration          | 2026-08-27  |
 | [1472. Design Browser History](./1472/README.md)                                                 | Medium     | Array, Linked List, Stack, Double-Linked List, Data Stream | 2026-08-27  |
 | [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target](./3734/README.md) | Hard       | Two Pointers, String, Enumeration                          | 2026-08-28  |
+| [2948. Make Lexicographically Smallest Array by Swapping Elements](./2948/README.md)             | Medium     | Array, Union-Find, Sorting                                 | 2026-08-29  |
