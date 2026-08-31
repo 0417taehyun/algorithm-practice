@@ -68,7 +68,7 @@
 | [1472. Design Browser History](./1472/README.md)                                                 | Medium     | Array, Linked List, Stack, Double-Linked List, Data Stream | 2026-08-27  |
 | [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target](./3734/README.md) | Hard       | Two Pointers, String, Enumeration                          | 2026-08-28  |
 | [2948. Make Lexicographically Smallest Array by Swapping Elements](./2948/README.md)             | Medium     | Array, Union-Find, Sorting                                 | 2026-08-29  |
-| [2091. Removing Minimum and Maximum From Array](./2091/README.md)                                | Medium     | Array, Greedt                                              | 2026-08-30  |
+| [2091. Removing Minimum and Maximum From Array](./2091/README.md)                                | Medium     | Array, Greedy                                              | 2026-08-30  |
 | [1700. Number of Students Unable to Eat Lunch](./1700/README.md)                                 | Easy       | Array, Stack, Queue, Simulation                            | 2026-08-31  |
-| [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./1700/README.md)   | Medium     | Linked List                                                | 2026-08-31  |
+| [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058/README.md)   | Medium     | Linked List                                                | 2026-08-31  |
 | [225. Implement Stack using Queues](./0225/README.md)                                            | Easy       | Stack, Queue                                               | 2026-08-31  |
