@@ -74,3 +74,4 @@
 | [225. Implement Stack using Queues](./0225/README.md)                                            | Easy       | Stack, Queue                                               | 2026-08-31  |
 | [179. Largest Number](./0179/README.md)                                                          | Medium     | Array, String, Greedy                                      | 2026-08-31  |
 | [3270. Find the Key of the Numbers](./3270/README.md)                                            | Easy       | Math                                                       | 2026-08-31  |
+| [2165. Smallest Value of the Rearranged Number](./2165/README.md)                                | Medium     | Math, Sorting                                              | 2026-08-31  |
