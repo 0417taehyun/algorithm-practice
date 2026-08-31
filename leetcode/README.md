@@ -70,3 +70,4 @@
 | [2948. Make Lexicographically Smallest Array by Swapping Elements](./2948/README.md)             | Medium     | Array, Union-Find, Sorting                                 | 2026-08-29  |
 | [2091. Removing Minimum and Maximum From Array](./2091/README.md)                                | Medium     | Array, Greedt                                              | 2026-08-30  |
 | [1700. Number of Students Unable to Eat Lunch](./1700/README.md)                                 | Easy       | Array, Stack, Queue, Simulation                            | 2026-08-31  |
+| [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./1700/README.md)   | Medium     | Linked List                                                | 2026-08-31  |
