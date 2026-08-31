@@ -71,3 +71,4 @@
 | [2091. Removing Minimum and Maximum From Array](./2091/README.md)                                | Medium     | Array, Greedt                                              | 2026-08-30  |
 | [1700. Number of Students Unable to Eat Lunch](./1700/README.md)                                 | Easy       | Array, Stack, Queue, Simulation                            | 2026-08-31  |
 | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./1700/README.md)   | Medium     | Linked List                                                | 2026-08-31  |
+| [225. Implement Stack using Queues](./0225/README.md)                                            | Easy       | Stack, Queue                                               | 2026-08-31  |
