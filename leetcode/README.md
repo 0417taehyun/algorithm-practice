@@ -73,3 +73,4 @@
 | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058/README.md)   | Medium     | Linked List                                                | 2026-08-31  |
 | [225. Implement Stack using Queues](./0225/README.md)                                            | Easy       | Stack, Queue                                               | 2026-08-31  |
 | [179. Largest Number](./0179/README.md)                                                          | Medium     | Array, String, Greedy                                      | 2026-08-31  |
+| [3270. Find the Key of the Numbers](./3270/README.md)                                            | Easy       | Math                                                       | 2026-08-31  |
