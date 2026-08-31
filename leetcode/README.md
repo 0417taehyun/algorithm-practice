@@ -72,3 +72,4 @@
 | [1700. Number of Students Unable to Eat Lunch](./1700/README.md)                                 | Easy       | Array, Stack, Queue, Simulation                            | 2026-08-31  |
 | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058/README.md)   | Medium     | Linked List                                                | 2026-08-31  |
 | [225. Implement Stack using Queues](./0225/README.md)                                            | Easy       | Stack, Queue                                               | 2026-08-31  |
+| [179. Largest Number](./0179/README.md)                                                          | Medium     | Array, String, Greedy                                      | 2026-08-31  |
