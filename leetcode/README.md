@@ -76,3 +76,4 @@
 | [3270. Find the Key of the Numbers](./3270/README.md)                                            | Easy       | Math                                                              | 2026-08-31  |
 | [3568. Minimum Moves to Clean the Classroom](./3568/README.md)                                   | Medium     | Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix | 2026-09-01  |
 | [3875. Construct Uniform Parity Array I](./3875/README.md)                                       | Easy       | Array, Math                                                       | 2026-09-02  |
+| [3876. Construct Uniform Parity Array II](./3876/README.md)                                      | Medium     | Array, Math                                                       | 2026-09-03  |
