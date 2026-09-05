@@ -78,3 +78,4 @@
 | [3875. Construct Uniform Parity Array I](./3875/README.md)                                       | Easy       | Array, Math                                                       | 2026-09-02  |
 | [3876. Construct Uniform Parity Array II](./3876/README.md)                                      | Medium     | Array, Math                                                       | 2026-09-03  |
 | [3903. Smallest Stable Index I](./3903/README.md)                                                | Easy       | Array, Prefix Sum                                                 | 2026-09-04  |
+| [3904. Smallest Stable Index II](./3904/README.md)                                               | Medium     | Array, Prefix Sum                                                 | 2026-09-05  |
