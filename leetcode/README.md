@@ -81,4 +81,4 @@
 | [3904. Smallest Stable Index II](./3904/README.md)                                               | Medium     | Array, Prefix Sum                                                 | 2026-09-05  |
 | [232. Implement Queue using Stacks](./0232/README.md)                                            | Easy       | Stack, Queue                                                      | 2026-09-05  |
 | [115. Distinct Subsequences](./0115/README.md)                                                   | Hard       | String, Dynamic Programming                                       | 2026-09-06  |
-| [940. Distinct Subsequences II](./0940/README.md)                                                | Hard       | ㅁㄴㅇ                                                            | 2026-09-07  |
+| [940. Distinct Subsequences II](./0940/README.md)                                                | Hard       | String, Dynamic Programming                                       | 2026-09-07  |
