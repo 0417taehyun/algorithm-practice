@@ -85,3 +85,4 @@
 | [3870. Count Commas in Range](./3870/README.md)                                                  | Easy       | Math                                                              | 2026-09-08  |
 | [3871. Count Commas in Range II](./3871/README.md)                                               | Medium     | Math                                                              | 2026-09-08  |
 | [26. Remove Duplicates from Sorted Array](./0026/README.md)                                      | Easy       | Array, Two Pointers                                               | 2026-09-09  |
+| [2265. Count Nodes Equal to Average of Subtree](./2265/README.md)                                | Medium     | Tree, Depth-First Search, Binary Tree                             | 2026-09-10  |
