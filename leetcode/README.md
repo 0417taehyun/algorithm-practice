@@ -87,3 +87,4 @@
 | [26. Remove Duplicates from Sorted Array](./0026/README.md)                                      | Easy       | Array, Two Pointers                                               | 2026-09-09  |
 | [2265. Count Nodes Equal to Average of Subtree](./2265/README.md)                                | Medium     | Tree, Depth-First Search, Binary Tree                             | 2026-09-10  |
 | [1120. Maximum Average Subtree](./1120/README.md)                                                | Medium     | Tree, Depth-First Search, Binary Tree                             | 2026-09-10  |
+| [3483. Unique 3-Digit Even Numbers](./3483/README.md)                                            | Easy       | Array, Hash Table, Recursion, Enumeration                         | 2026-09-11  |
