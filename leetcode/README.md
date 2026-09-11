@@ -89,3 +89,4 @@
 | [1120. Maximum Average Subtree](./1120/README.md)                                                | Medium     | Tree, Depth-First Search, Binary Tree                             | 2026-09-10  |
 | [3483. Unique 3-Digit Even Numbers](./3483/README.md)                                            | Easy       | Array, Hash Table, Recursion, Enumeration                         | 2026-09-11  |
 | [2094. Finding 3-Digit Even Numbers](./2094/README.md)                                           | Easy       | Array, Hash Table, Recursion, Sorting, Enumeration                | 2026-09-11  |
+| [1295. Find Numbers with Even Number of Digits](./1295/README.md)                                | Easy       | Array, Math                                                       | 2026-09-11  |
