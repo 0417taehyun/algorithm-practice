@@ -92,3 +92,4 @@
 | [1295. Find Numbers with Even Number of Digits](./1295/README.md)                                | Easy       | Array, Math                                                       | 2026-09-11  |
 | [3414. Maximum Score of Non-overlapping Intervals](./3414/README.md)                             | Hard       |                                                                   | 2026-09-12  |
 | [835. Image Overlap](./0835/README.md)                                                           | Medium     |                                                                   | 2026-09-13  |
+| [836. Rectangle Overlap](./0836/README.md)                                                       | Easy       | Math, Geometry                                                    | 2026-09-14  |
