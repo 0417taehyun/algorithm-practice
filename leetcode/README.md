@@ -94,3 +94,4 @@
 | [835. Image Overlap](./0835/README.md)                                                           | Medium     |                                                                   | 2026-09-13  |
 | [836. Rectangle Overlap](./0836/README.md)                                                       | Easy       | Math, Geometry                                                    | 2026-09-14  |
 | [2472. Maximum Number of Non-overlapping Palindrome Substrings](./2472/README.md)                | Hard       |                                                                   | 2026-09-15  |
+| [1621. Number of Sets of K Non-Overlapping Line Segments](./1621/README.md)                      | Medium     |                                                                   | 2026-09-15  |
