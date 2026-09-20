@@ -98,3 +98,4 @@
 | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](./1477/README.md)               | Medium     |                                                                   | 2026-09-17  |
 | [1520. Maximum Number of Non-Overlapping Substrings](./1520/README.md)                           | Hard       |                                                                   | 2026-09-18  |
 | [1401. Circle and Rectangle Overlapping](./1401/README.md)                                       | Medium     | Math, Geometry                                                    | 2026-09-19  |
+| [3498. Reverse Degree of a String](./3498/README.md)                                             | Easy       | String, Simulation                                                | 2026-09-20  |
