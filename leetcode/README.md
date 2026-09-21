@@ -99,3 +99,4 @@
 | [1520. Maximum Number of Non-Overlapping Substrings](./1520/README.md)                           | Hard       |                                                                   | 2026-09-18  |
 | [1401. Circle and Rectangle Overlapping](./1401/README.md)                                       | Medium     | Math, Geometry                                                    | 2026-09-19  |
 | [3498. Reverse Degree of a String](./3498/README.md)                                             | Easy       | String, Simulation                                                | 2026-09-20  |
+| [3524. Find X Value of Array I](./3524/README.md)                                                | Medium     | Array, Math, Dynamic Programming                                  | 2026-09-21  |
