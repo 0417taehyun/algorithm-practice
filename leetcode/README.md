@@ -103,3 +103,4 @@
 | [279. Perfect Squares](./0279/README.md)                                                         | Medium     | Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack | 2026-09-22  |
 | [3525. Find X Value of Array II](./3525/README.md)                                               | Hard       |                                                                                      | 2026-09-22  |
 | [1658. Minimum Operations to Reduce X to Zero](./1658/README.md)                                 | Medium     | Array, Hash Table, Binary Search, Sliding Window, Prefix Sum                         | 2026-09-23  |
+| [3550. Smallest Index With Digit Sum Equal to Index](./3550/README.md)                           | Easy       | Array, Math                                                                          | 2026-09-24  |
