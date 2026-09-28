@@ -106,3 +106,4 @@
 | [3550. Smallest Index With Digit Sum Equal to Index](./3550/README.md)                           | Easy       | Array, Math                                                                          | 2026-09-24  |
 | [1096. Brace Expansion II](./1096/README.md)                                                     | Hard       |                                                                                      | 2026-09-25  |
 | [1807. Evaluate the Bracket Pairs of a String](./1807/README.md)                                 | Medium     | Array, Hash Table, String                                                            | 2026-09-26  |
+| [1190. Reverse Substrings Between Each Pair of Parentheses](./1190/README.md)                    | Medium     | Stack, Bracket Sequences                                                             | 2026-09-27  |
