@@ -107,3 +107,4 @@
 | [1096. Brace Expansion II](./1096/README.md)                                                     | Hard       |                                                                                      | 2026-09-25  |
 | [1807. Evaluate the Bracket Pairs of a String](./1807/README.md)                                 | Medium     | Array, Hash Table, String                                                            | 2026-09-26  |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](./1190/README.md)                    | Medium     | Stack, Bracket Sequences                                                             | 2026-09-27  |
+| [1614. Maximum Nesting Depth of the Parentheses](./1614/README.md)                               | Easy       | String, Stack, Bracket Sequences                                                     | 2026-09-28  |
