@@ -109,3 +109,4 @@
 | [1190. Reverse Substrings Between Each Pair of Parentheses](./1190/README.md)                    | Medium     | Stack, Bracket Sequences                                                             | 2026-09-27  |
 | [1614. Maximum Nesting Depth of the Parentheses](./1614/README.md)                               | Easy       | String, Stack, Bracket Sequences                                                     | 2026-09-28  |
 | [2267. Check if There Is a Valid Parentheses String Path](./2267/README.md)                      | Hard       |                                                                                      | 2026-09-29  |
+| [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./1111/README.md)                 | Medium     | String, Stack, Bracket Sequences                                                     | 2026-09-30  |
