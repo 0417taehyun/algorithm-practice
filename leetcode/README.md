@@ -108,3 +108,4 @@
 | [1807. Evaluate the Bracket Pairs of a String](./1807/README.md)                                 | Medium     | Array, Hash Table, String                                                            | 2026-09-26  |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](./1190/README.md)                    | Medium     | Stack, Bracket Sequences                                                             | 2026-09-27  |
 | [1614. Maximum Nesting Depth of the Parentheses](./1614/README.md)                               | Easy       | String, Stack, Bracket Sequences                                                     | 2026-09-28  |
+| [2267. Check if There Is a Valid Parentheses String Path](./2267/README.md)                      | Hard       |                                                                                      | 2026-09-29  |
