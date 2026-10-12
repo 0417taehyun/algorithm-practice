@@ -1,0 +1,16 @@
+# 2897. Apply Operations on Array to Maximize Sum of Squares
+
+## Problem
+
+- [2897. Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares)
+
+## Solution
+
+### 1. Work In Progress
+
+```Python
+
+```
+
+- Time complexity is O().
+- Space complexity is O().
