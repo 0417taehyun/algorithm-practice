@@ -14,7 +14,7 @@ class Solution:
         m, n = len(grid), len(grid[0])
 
         # dp[i][j] = min(dp[i-1][j], dp[i][j-1]) + grid[i][j]
-        dp = [[0 for _ in range(n)]] * m
+        dp = [[0] * n for _ in range(m)]
 
         for x in range(m):
             for y in range(n):
