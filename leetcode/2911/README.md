@@ -6,11 +6,18 @@
 
 ## Solution
 
-### 1.
+### 1. Greedy
 
 ```Python
+class Solution:
+    def minChanges(self, s: str) -> int:
+        answer = 0
+        for idx in range(0, len(s), 2):
+            if s[idx] != s[idx+1]:
+                answer += 1
+        return answer
 
 ```
 
-- Time complexity is O().
-- Space complexity is O().
+- Time complexity is O(N).
+- Space complexity is O(1).
